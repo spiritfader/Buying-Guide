@@ -41,9 +41,12 @@ Acer XV272U KF
 
 # 4K 144+
 
-## 27"
+## ~27"
+
 Asus: [XG27UCS](<https://www.youtube.com/watch?v=7c_SW4539Lk>), [XG27UCG](<https://www.youtube.com/watch?v=rVYVDODQmQ8>)
+
 LG: [27GP950](<https://www.rtings.com/monitor/reviews/lg/27gp950-b>)
+
 Gigabyte: [M28U](<https://www.youtube.com/watch?v=xnJjuQdQiyo>)
 
 Speculative: Philips 27M1F5800 [LGD panel]
@@ -56,7 +59,7 @@ Samsung: [32" Neo G7 G75NB](<https://www.youtube.com/watch?v=SMcABSuKAK0&t=697s&
 
 # OLED (WIP)
 
-Burn-in covered warranty length:
+Warranty duration including burn-in coverage (years):
 - Acer: 0
 - AOC: 3, possibly advance replacement
 - Asus: 3
@@ -70,65 +73,59 @@ Burn-in covered warranty length:
 
 ## 1440p 240
 
-Acer: X27U
+Acer: [X27U](<https://www.youtube.com/watch?v=9Fnmz2e_4xI>) [[FW update](<https://www.youtube.com/watch?v=n58SwahHSVk>)]
 
-Asus: PG27AQDP
+AOC: [AG276QZD](<https://www.youtube.com/watch?v=C0PS9yM-t6Y>)
 
-Corsair: 27QHD240
+Asus: [PG27AQDM](<https://www.youtube.com/watch?v=R0AkfhZp70w>) [[1](<https://www.youtube.com/watch?v=CqRT06hFDL8>)], [XG27AQDMG](<https://www.youtube.com/watch?v=4OD1Gml24gI>) [FW issues with image retention?]
 
-LG: 27GR95QE, 27GS95QE, 34GS95QE
+Corsair: [27QHD240](<https://www.youtube.com/watch?v=ksNCMduj_yc>)
 
-Speculative: AOC AG276QZD2, Gigabyte FO27Q2, MSI 271QPX E2
+LG: [27GR95QE](<https://www.youtube.com/watch?v=2YBJFYGtmQk>), [27GS95QE](<https://www.rtings.com/monitor/reviews/lg/27gs95qe-b>)
+
+Speculative: AOC AG276QZD2, Gigabyte FO27Q2, MSI 271QPX E2, LG 27GS93QE
 
 ## 1440p 360+
 
-AOC: 
+Asus: [PG27AQDP](<https://www.youtube.com/watch?v=fLekvkdOQvI>) [480 Hz]
 
-Asus: PG27AQDP [480 Hz]
+Dell: [AW2725DF](<https://www.youtube.com/watch?v=0ssesoCm4lU>)
 
-Corsair: 
+Gigabyte: [FO27Q3](<https://www.youtube.com/watch?v=Je2WdeqaHto>)
 
-Dell: AW2725DF
+MSI: [271QRX](<https://www.youtube.com/watch?v=XgtzP5Xs1aI>) [[1](<https://www.youtube.com/watch?v=-BcXYC9ANxE>)]
 
-Gigabyte: FO27Q3
+Philips: [27M2N8500](<https://www.youtube.com/watch?v=k7fe2KeD25g>)
 
-LG:
-
-MSI: 271QRX
-
-Philips: 
-
-Samsung: 
+Samsung: [OLED G6 G60SD](<https://www.rtings.com/monitor/reviews/samsung/odyssey-oled-g6-g60sd-s27dg60>)
 
 Speculative: MSI 271QPX
 
-# 1440p UW
+## 1440p UW
 
-Acer: 
+AOC: [PD49](<https://tftcentral.co.uk/reviews/aoc-agon-pro-porsche-design-pd49>)
 
-AOC: 
+Asus: [PG34WCDM](<https://www.rtings.com/monitor/reviews/asus/rog-swift-oled-pg34wcdm>)
 
-Asus: PG34WCDM
+Corsair: [34WQHD240-C](<https://www.youtube.com/watch?v=_5gInzdwoQs>)
 
-Corsair: 
+Dell: [AW3423DWF](<https://www.youtube.com/watch?v=b0aLF3KVOTQ>) [[FW update](<https://www.youtube.com/watch?v=jTvqGFBPIw4>), [1](<https://www.rtings.com/monitor/reviews/dell/alienware-aw3423dwf>)]
 
-Dell: AW3423DWF
+Gigabyte: [MO34WQC2](<https://www.youtube.com/watch?v=AaHOcqinQBI>)
 
-Gigabyte: MO34WQC2
+LG: [34GS95QE](<https://www.rtings.com/monitor/reviews/lg/34gs95qe-b>)
 
-LG: 
+MSI: [341CQPX](<https://www.youtube.com/watch?v=YYCKQ2Pcgw0>) [[1](<https://tftcentral.co.uk/reviews/msi-mpg-341cqpx-qd-oled>)]
 
-MSI: 341CQPX
+Philips: [34M2C6500](<https://www.youtube.com/watch?v=iPCvktwPp60>)
 
-Philips: 
+Samsung: [OLED G8 G85SB](<https://www.youtube.com/watch?v=RmDmJ_1SudA>), [OLED G9 G90SC / G95SC](<https://www.youtube.com/watch?v=BSTds2SjxsU>) [49" DQHD, [1](<https://www.rtings.com/monitor/reviews/samsung/odyssey-oled-g9-g95sc-s49cg95>)]
 
-Samsung: OLED G8 G85SB, OLED G9 G90SC / G95SC [49" DQHD]
-
-Speculative:
+Speculative: AOC PD34, Samsung OLED G8 G85SD, Acer X34 OLED, X34 QD-OLED
 
 ## 4K ~144: 
 
-Asus: PG42UQ
+Asus: [PG42UQ](<https://www.youtube.com/watch?v=MNBmFJ68SCw>)
 
 LG: 42C2 / 42C3 / 42C4
 
@@ -138,22 +135,16 @@ Speculative: Philips 42M2N8900, basically all the 32" 4K 165 QD-OLED models
 
 ## 4K 240:
 
-Acer: 
+Asus: [PG32UCDM](<https://www.youtube.com/watch?v=qywLwR7KT9M>), [PG32UCDP](<https://www.youtube.com/watch?v=5HNZina-4Tc>)
 
-AOC: 
+Dell: [AW3225QF](<https://www.youtube.com/watch?v=GR9H_kg1uZU>)
 
-Asus: PG32UCDM
+Gigabyte: [FO32U2/P](<https://www.youtube.com/watch?v=dLVLX_busi4>)
 
-Corsair: 
+LG: [32GS95UE](<https://www.youtube.com/watch?v=Jvdng6cqlhI>)
 
-Dell: AW3225QF
+MSI: [321URX](<https://www.youtube.com/watch?v=O1cPgQ9F4IY>)
 
-Gigabyte: FO32U2/P
+Samsung: [OLED G8 G80SD](<https://www.rtings.com/monitor/reviews/samsung/odyssey-oled-g8-g80sd-s32dg80>)
 
-LG: 32GS95UE
-
-MSI: 321URX, 321UPX
-
-Philips: 
-
-Samsung: OLED G8 G80SD
+Speculative: [MSI 321UPX](<https://tftcentral.co.uk/news/the-msi-mag-321upx-is-now-available-differences-with-the-mpg-model-explained>) [[FW support](<https://www.msi.com/news/detail/MAG-321UPX-QD-OLED-and-MAG-271QPX-QD-OLED-Support-Firmware-Update-143951>)]
