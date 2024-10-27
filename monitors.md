@@ -53,3 +53,107 @@ Speculative: Philips 27M1F5800 [LGD panel]
 Dell: [G3223Q](<https://www.rtings.com/monitor/reviews/dell/g3223q>)
 
 Samsung: [32" Neo G7 G75NB](<https://www.youtube.com/watch?v=SMcABSuKAK0&t=697s&pp=ygUGbmVvIGc3>) [MiniLED, QC issues, [1](<https://www.rtings.com/monitor/reviews/samsung/odyssey-neo-g7-s32bg75>), [2](<https://pcmonitors.info/reviews/samsung-odyssey-neo-g7-s32bg75/>)]
+
+# OLED (WIP)
+
+Burn-in covered warranty length:
+- Acer: 0
+- AOC: 3, possibly advance replacement
+- Asus: 3
+- Corsair: 3
+- Dell: 3, advance replacement
+- Gigabyte: 3
+- LG: 2 in US, ? elsewhere 
+- MSI: 3
+- Philips: 3, possibly advance replacement
+- Samsung: ? - 3, explicitly listed in specs of newer models
+
+## 1440p 240
+
+Acer: X27U
+
+Asus: PG27AQDP
+
+Corsair: 27QHD240
+
+LG: 27GR95QE, 27GS95QE, 34GS95QE
+
+Speculative: AOC AG276QZD2, Gigabyte FO27Q2, MSI 271QPX E2
+
+## 1440p 360+
+
+AOC: 
+
+Asus: PG27AQDP [480 Hz]
+
+Corsair: 
+
+Dell: AW2725DF
+
+Gigabyte: FO27Q3
+
+LG:
+
+MSI: 271QRX
+
+Philips: 
+
+Samsung: 
+
+Speculative: MSI 271QPX
+
+# 1440p UW
+
+Acer: 
+
+AOC: 
+
+Asus: PG34WCDM
+
+Corsair: 
+
+Dell: AW3423DWF
+
+Gigabyte: MO34WQC2
+
+LG: 
+
+MSI: 341CQPX
+
+Philips: 
+
+Samsung: OLED G8 G85SB, OLED G9 G90SC / G95SC [49" DQHD]
+
+Speculative:
+
+## 4K ~144: 
+
+Asus: PG42UQ
+
+LG: 42C2 / 42C3 / 42C4
+
+Sony: A90K
+
+Speculative: Philips 42M2N8900, basically all the 32" 4K 165 QD-OLED models
+
+## 4K 240:
+
+Acer: 
+
+AOC: 
+
+Asus: PG32UCDM
+
+Corsair: 
+
+Dell: AW3225QF
+
+Gigabyte: FO32U2/P
+
+LG: 32GS95UE
+
+MSI: 321URX, 321UPX
+
+Philips: 
+
+Samsung: OLED G8 G80SD
