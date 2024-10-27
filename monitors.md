@@ -10,7 +10,7 @@ permalink: /monitors
 
 AOC: [Q27G3XMN](<https://www.youtube.com/watch?v=XbQ8Pe4WVxc>) [MiniLED, [1](<https://www.rtings.com/monitor/reviews/aoc/q27g3xmn>), [2](<https://tftcentral.co.uk/reviews/aoc-q27g3xmn>)], [Q27G4X](<https://www.youtube.com/watch?v=Ix9jwP_q_IM>)
 
-Asus: [XG27ACS](<https://www.youtube.com/watch?v=cXgvP84g2BU>) [[1](<https://www.rtings.com/monitor/reviews/asus/rog-strix-xg27acs>), [2](<https://www.youtube.com/watch?v=G2T1wNu6Q6Y>)], [VG27AQ3A](<https://www.youtube.com/watch?v=jogkXwQwQI4>) [[1](<https://www.youtube.com/watch?v=__WHIe_KPXY>), [2](<https://www.youtube.com/watch?v=X39gYoif7Jk>)
+Asus: [XG27ACS](<https://www.youtube.com/watch?v=cXgvP84g2BU>) [[1](<https://www.rtings.com/monitor/reviews/asus/rog-strix-xg27acs>), [2](<https://www.youtube.com/watch?v=G2T1wNu6Q6Y>)], [VG27AQ3A](<https://www.youtube.com/watch?v=jogkXwQwQI4>) [[1](<https://www.youtube.com/watch?v=__WHIe_KPXY>), [2](<https://www.youtube.com/watch?v=X39gYoif7Jk>)]
 
 Dell: [G2724D](<https://www.youtube.com/watch?v=pw9ByU6AOd8>) [[1](<https://www.rtings.com/monitor/reviews/dell/g2724d>), [2](<https://www.youtube.com/watch?v=7Bj59SEc3f8>)]
 
@@ -39,15 +39,15 @@ Samsung: [G6 G65B](<https://www.rtings.com/monitor/reviews/samsung/odyssey-g6-s3
 Speculative:
 Acer XV272U KF
 
-# 4K 144+
+# 4K ~144
 
 ## ~27"
 
 Asus: [XG27UCS](<https://www.youtube.com/watch?v=7c_SW4539Lk>), [XG27UCG](<https://www.youtube.com/watch?v=rVYVDODQmQ8>)
 
-LG: [27GP950](<https://www.rtings.com/monitor/reviews/lg/27gp950-b>)
-
 Gigabyte: [M28U](<https://www.youtube.com/watch?v=xnJjuQdQiyo>)
+
+LG: [27GP950](<https://www.rtings.com/monitor/reviews/lg/27gp950-b>)
 
 Speculative: Philips 27M1F5800 [LGD panel]
 
@@ -55,7 +55,7 @@ Speculative: Philips 27M1F5800 [LGD panel]
 
 Dell: [G3223Q](<https://www.rtings.com/monitor/reviews/dell/g3223q>)
 
-Samsung: [32" Neo G7 G75NB](<https://www.youtube.com/watch?v=SMcABSuKAK0&t=697s&pp=ygUGbmVvIGc3>) [MiniLED, QC issues, [1](<https://www.rtings.com/monitor/reviews/samsung/odyssey-neo-g7-s32bg75>), [2](<https://pcmonitors.info/reviews/samsung-odyssey-neo-g7-s32bg75/>)]
+Samsung: [32" Neo G7 G75NB](<https://www.youtube.com/watch?v=SMcABSuKAK0>) [MiniLED, QC issues, [1](<https://www.rtings.com/monitor/reviews/samsung/odyssey-neo-g7-s32bg75>), [2](<https://pcmonitors.info/reviews/samsung-odyssey-neo-g7-s32bg75/>)]
 
 # OLED (WIP)
 
@@ -71,7 +71,7 @@ Warranty duration including burn-in coverage (years):
 - Philips: 3, possibly advance replacement
 - Samsung: ? - 3, explicitly listed in specs of newer models
 
-## 1440p 240
+## 1440p 240 OLED
 
 Acer: [X27U](<https://www.youtube.com/watch?v=9Fnmz2e_4xI>) [[FW update](<https://www.youtube.com/watch?v=n58SwahHSVk>)]
 
@@ -85,7 +85,7 @@ LG: [27GR95QE](<https://www.youtube.com/watch?v=2YBJFYGtmQk>), [27GS95QE](<https
 
 Speculative: AOC AG276QZD2, Gigabyte FO27Q2, MSI 271QPX E2, LG 27GS93QE
 
-## 1440p 360+
+## 1440p 360+ OLED
 
 Asus: [PG27AQDP](<https://www.youtube.com/watch?v=fLekvkdOQvI>) [480 Hz]
 
@@ -101,7 +101,7 @@ Samsung: [OLED G6 G60SD](<https://www.rtings.com/monitor/reviews/samsung/odyssey
 
 Speculative: MSI 271QPX
 
-## 1440p UW
+## 1440p UW OLED
 
 AOC: [PD49](<https://tftcentral.co.uk/reviews/aoc-agon-pro-porsche-design-pd49>)
 
@@ -123,7 +123,7 @@ Samsung: [OLED G8 G85SB](<https://www.youtube.com/watch?v=RmDmJ_1SudA>), [OLED G
 
 Speculative: AOC PD34, Samsung OLED G8 G85SD, Acer X34 OLED, X34 QD-OLED
 
-## 4K ~144: 
+## 4K ~144 OLED
 
 Asus: [PG42UQ](<https://www.youtube.com/watch?v=MNBmFJ68SCw>)
 
@@ -133,7 +133,7 @@ Sony: A90K
 
 Speculative: Philips 42M2N8900, basically all the 32" 4K 165 QD-OLED models
 
-## 4K 240:
+## 4K 240 OLED
 
 Asus: [PG32UCDM](<https://www.youtube.com/watch?v=qywLwR7KT9M>), [PG32UCDP](<https://www.youtube.com/watch?v=5HNZina-4Tc>)
 
