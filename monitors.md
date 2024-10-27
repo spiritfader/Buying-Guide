@@ -23,3 +23,18 @@ Iiyama: [GB2770QSU-B1](<https://www.kitguru.net/peripherals/dominic-moass/iiyama
 KTC: [H27T22](<https://www.youtube.com/watch?v=zXeOjYRPj08>)
 
 Speculative: [Acer VG271U M3 / XV271U M3](<https://discord.com/channels/286168815585198080/873056765367955478/1293533301968994307>), XV272U V3
+
+# 27" 1440p 240+
+
+Asus: [PG27AQN](<https://www.youtube.com/watch?v=eYFtLBM3a78>), [XG27AQMR](<https://www.youtube.com/watch?v=Wik4DhEaj_8>)
+
+HP: [Omen 27qs](<https://www.rtings.com/monitor/reviews/hp/omen-27qs>)
+
+Lenovo: [Y27qf-30](<https://www.youtube.com/watch?v=GofFvSYi1CQ>)
+
+LG: [27GR83Q](<https://www.youtube.com/watch?v=Z-1zV7MYT4U>) [[1](<https://www.youtube.com/watch?v=IEv895dnoVY>)]
+
+Samsung: [G6 G65B](<https://www.rtings.com/monitor/reviews/samsung/odyssey-g6-s32bg65>) [27 & 32", VA, QC issues, [1](<https://www.typectechreviews.com/post/samsung-odyssey-g6-g65b-gaming-monitor-review>)], [G7 G73T / G74T / G75T](<https://www.youtube.com/watch?v=go1qsBetgV0>) [27" & 32", VA, QC issues, [1](<https://www.rtings.com/monitor/reviews/samsung/odyssey-g7-c32g75t>)] 
+
+Speculative:
+Acer XV272U KF
