@@ -38,3 +38,18 @@ Samsung: [G6 G65B](<https://www.rtings.com/monitor/reviews/samsung/odyssey-g6-s3
 
 Speculative:
 Acer XV272U KF
+
+# 4K 144+
+
+## 27"
+Asus: [XG27UCS](<https://www.youtube.com/watch?v=7c_SW4539Lk>), [XG27UCG](<https://www.youtube.com/watch?v=rVYVDODQmQ8>)
+LG: [27GP950](<https://www.rtings.com/monitor/reviews/lg/27gp950-b>)
+Gigabyte: [M28U](<https://www.youtube.com/watch?v=xnJjuQdQiyo>)
+
+Speculative: Philips 27M1F5800 [LGD panel]
+
+## 32"
+
+Dell: [G3223Q](<https://www.rtings.com/monitor/reviews/dell/g3223q>)
+
+Samsung: [32" Neo G7 G75NB](<https://www.youtube.com/watch?v=SMcABSuKAK0&t=697s&pp=ygUGbmVvIGc3>) [MiniLED, QC issues, [1](<https://www.rtings.com/monitor/reviews/samsung/odyssey-neo-g7-s32bg75>), [2](<https://pcmonitors.info/reviews/samsung-odyssey-neo-g7-s32bg75/>)]
