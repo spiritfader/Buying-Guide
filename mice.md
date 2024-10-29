@@ -60,6 +60,7 @@ permalink: /mice
   
 [^loginote]: Over the past few years Logitech has been ignoring the quality of their mice. 
 [^lgtchbudget]: For those who are in a budget and have very limited options due to their local market.
+    
     G102 (International Model) and G203 (US Model) are the same mouse.
 
 ### Ninjutso
