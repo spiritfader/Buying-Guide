@@ -10,115 +10,89 @@ permalink: /mice
 
 # Claw
 
-Ajazz: 
--
+### Ajazz
 
-Asus: 
--
+### Asus
 
-ATK
--
-Blazing Sky F1 (Pro / Pro Max / Ultimate)
+### ATK
 
-Cherry Xtrfy
--
+* Blazing Sky F1 (Pro / Pro Max / Ultimate)
 
-Cooler Master 
--
+### Cherry Xtrfy
 
-Dareu
--
+### Cooler Master 
 
-Darmoshark
--
+### Dareu
 
-Delux
--
+### Darmoshark
 
-Endgame Gear
--
+### Delux
 
-Finalmouse
--
+### Endgame Gear
 
-Fnatic[^fntc]
--
-Maya 8k
+### Finalmouse
 
-Thorn
+### Fnatic[^fntc]
+* Maya 8k
+* Thorn
 
 [^fntc]: Collaboration with Lamzu. Only difference is color (Fnatic Orange)
 
-G-Wolves[^gwqc]
--
+### G-Wolves[^gwqc]
 
 [^gwqc]: 
 
-Hitscan
--
+### Hitscan
 
-HyperX 
--
+### HyperX 
 
-Keychron 
--
+### Keychron 
 
-Lamzu
--
-Maya
+### Lamzu
+* Maya
+* Maya X (Viper V3 / G Pro X Superlight Alternative)
+* Atlantis Mini (Pro / 4K / Champion)
 
-Maya X (Viper V3 / G Pro X Superlight Alternative)
-
-Atlantis Mini (Pro / 4K / Champion)
-
-Logitech[^loginote]
--
-G203<sup>wired</sup>[^lgtchbudget]
-
-G305[^lgtchbudget]
-
-G Pro X Superlight (V2)
-
+### Logitech[^loginote]
+* G102 / G203<sup>wired</sup>[^lgtchbudget][^g102sim]
+* G305[^lgtchbudget]
+* G Pro X Superlight (V2)
+  
 [^loginote]: Over the past few years Logitech has been ignoring the quality of their mice. 
-[^lgtchbudget]: For those who are in a budget and have very limited options due to their local market
+[^lgtchbudget]: For those who are in a budget and have very limited options due to their local market.
 
-Ninjutso
--
-Sora V2
+    G102 and G203 are the same mouse.
 
-Pulsar
--
-X2V2, X2H, X2A
+    G102 is an international model.
+    
+    G203 is a US model.
 
-Pwnage
--
+### Ninjutso
+* Sora V2
 
-Razer
--
-Viper Mini
+### Pulsar
+* X2V2
+* X2H
+* X2A
 
-Cobra (Pro)
+### Pwnage
 
-Viper V3 (Hyperspeed / Pro)
+### Razer
+* Viper Mini
+* Cobra (Pro)
+* Viper V3 (Hyperspeed / Pro)
 
-Teevolution
--
+### Teevolution
 
-VGN
--
+### VGN
 
-VXE
--
+### VXE
 
-Waizowl
--
+### Waizowl
 
-WLMouse
--
-Beast X (Mini / Max / 8k)
+### WLMouse
+* Beast X (Mini / Max / 8k)
 
-Zaopin
--
+### Zaopin
 
-Zowie
--
+### Zowie
