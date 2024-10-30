@@ -33,10 +33,10 @@ permalink: /mice
 Ultralight X
 
 ###### Notes
-###### <sup>1</sup> **Buy with caution** History of QC issues. Otherwise a great mouse if you do get a unit with good quality control.
+###### <sup>1</sup> **Buy with caution** QC issues. Otherwise a great mouse if you do get a unit with good quality control.
 
 ### Fnatic
-* Maya 8k<sup>1</sup>
+* Maya 8k<sup>1</sup> 
 * Thorn<sup>1, 2</sup>
 
 ###### Notes
@@ -54,12 +54,14 @@ Ultralight X
 ### Lamzu
 * Atlantis OG V2<sup>1</sup>
 * Atlantis Mini (Pro / 4K / Champion)<sup>1</sup>
-* Maya (Viper Mini / Cobra Alternative)
-* Maya X (Viper V3 / G Pro X Superlight Alternative)
+* Maya
+  - Shape is similar to Viper Mini / Cobra
+* Maya X
+  - Shape is similar to Viper V3 / G Pro X Superlight
 * Thorn
 
 ###### Notes
-###### <sup>1</sup> Avoid non 4k models if possible. Mainly had issues with coating wearing down.
+###### <sup>1</sup> Avoid non 4k models if possible. Mainly had issues with coating wearing down. 
 ###### <sup>2</sup> Optical switch implementation may not be to everyones liking.
 
 ### Logitech<sup>1</sup>
@@ -77,9 +79,14 @@ Ultralight X
 * Sora V2
 
 ### Pulsar
-* X2V2
-* X2H
-* X2A
+* X2V2 (Mini / Regular)<sup>1</sup1>
+* X2H (Mini / Regular)
+  - Similar to Scyrox V8 Shape
+* X2A (Mini / Regular)
+  - Removable side buttons on both sides. Great for left handed users.
+
+###### Notes
+###### <sup>1</sup> Quality Control issue with main and secondary clicks where it becomes sticky over time. This is due to the rubber and poron dampeners. Simple fix by removing the dampeners but requires new skates and time to disassemble. Otherwise go through the return merchandise authorization (RMA) process.
 
 ### Pwnage
 
@@ -93,6 +100,7 @@ Ultralight X
 
 ### Scyrox<sup>1</sup>
 * V8 
+  - Similar to Pulsar X2H shape
 
 ###### Notes
 ###### <sup>1</sup> Lamzu's sub brand that is mainly targeting the China market.
@@ -106,7 +114,7 @@ Ultralight X
 ### Waizowl
 
 ### WLMouse
-* Beast X (Mini / Max / 8k)
+##### Beast X (Mini / Max / 8k)
 
 ### Zaopin
 
