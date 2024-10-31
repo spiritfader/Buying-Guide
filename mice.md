@@ -30,10 +30,10 @@ permalink: /mice
 ### Endgame Gear
 
 ### Finalmouse<sup>1</sup>
-Ultralight X
+* Ultralight X
 
 ###### Notes
-###### <sup>1</sup> **Buy with caution** QC issues. Otherwise a great mouse if you do get a unit with good quality control.
+###### <sup>1</sup> **BUY WITH CAUTION! QUALITY CONTROL ISSUES**. Otherwise a great mouse if you do get a unit with good quality control.
 
 ### Fnatic
 * Maya 8k<sup>1</sup> 
@@ -71,7 +71,7 @@ Ultralight X
 * G Pro X Superlight 2
 
 ###### Notes
-###### <sup>1</sup> Consists of **Quality Control (QC) issues**. Hard to recommend but they are perfectly fine if options are super limited.
+###### <sup>1</sup> ** BUY WITH CAUTION! QUALITY CONTROL (QC) ISSUE**. Hard to recommend but they are perfectly fine if options are super limited.
 ###### <sup>2</sup> For those who are in a budget and have very limited options due to their local market.
 ###### <sup>3</sup> 
 
@@ -79,7 +79,7 @@ Ultralight X
 * Sora V2
 
 ### Pulsar
-* X2V2 (Mini / Regular)<sup>1</sup1>
+* X2V2 (Mini / Regular)<sup>1</sup>
 * X2H (Mini / Regular)
   - Similar to Scyrox V8 Shape
 * X2A (Mini / Regular)
@@ -92,7 +92,8 @@ Ultralight X
 
 ### Razer
 * Viper Mini (Discontinued)<sup>1</sup>
-* Cobra (Pro)
+* Cobra
+* Cobra Pro
 * Viper V3 (Hyperspeed / Pro)
 
 ###### Notes
