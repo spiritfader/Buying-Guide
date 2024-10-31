@@ -8,6 +8,27 @@ permalink: /mice
 
 (Work in Progress)
 
+# Table of Contents
+* Gripstyle
+  - [Claw](#claw)
+  - [Palm](#palm)
+  - [Fingertip](#fingertip)
+
+# Resources
+* [Eloshapes](https://www.eloshapes.com/)
+  - Nice website to look into different mice specifications.
+  - Not every mice is in the database.
+  - Not the best to rely on as some shapes will look very similar to each other but in reality they are possibly different.
+ * [Rting](https://www.rtings.com/mouse)
+   - Website that reviews and provide performance data for mice.
+   - Certain categories such as their mouse reviews limit you to 10 reviews a day.
+   - Not every mice is in their database.
+   - Unlike Eloshapes, uses 3D scans instead of 2D outlines.
+ * [TechPowerUp](https://www.techpowerup.com/review/?category=Mice&manufacturer=&pp=25&order=date)
+   - Also reviews and provide performance data for mice.
+   - Not every mice if in their database.
+   - No comparison tool for mice shapes.
+
 # Claw
 
 ### Ajazz
@@ -27,7 +48,8 @@ permalink: /mice
 
 ### Delux
 
-### Endgame Gear
+### Endgame Gear<sup>1</sup>
+* 
 
 ### Finalmouse<sup>1</sup>
 * Ultralight X
@@ -91,7 +113,8 @@ permalink: /mice
 ### Pwnage
 
 ### Razer
-* Viper Mini (Discontinued)<sup>1</sup>
+* Viper Mini<sup>1</sup>
+  - Discontinued and replaced by Razer Cobra.
 * Cobra
 * Cobra Pro
 * Viper V3 (Hyperspeed / Pro)
@@ -120,3 +143,7 @@ permalink: /mice
 ### Zaopin
 
 ### Zowie
+
+# Palm
+
+# Fingertip
