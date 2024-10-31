@@ -9,10 +9,13 @@ permalink: /mice
 (Work in Progress)
 
 # Table of Contents
-* Gripstyle
-  - [Claw](#claw)
-  - [Palm](#palm)
-  - [Fingertip](#fingertip)
+[Claw](#claw)
+
+[Palm](#palm)
+
+[Fingertip](#fingertip)
+
+[Resources](#resources)
 
 # Resources
 * [Eloshapes](https://www.eloshapes.com/)
