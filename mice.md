@@ -1,11 +1,11 @@
 ---
 title: Mice
-description: Mice
-author: mouse man
-date: 2024-11-01 21:00:00 +0200
-tags: [Buying guide]
-pin: true
+layout: home
+nav_order: 1
+has_toc: true
+permalink: /mice
 ---
+
 (Work in Progress)
 
 # Table of Contents
