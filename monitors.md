@@ -6,7 +6,13 @@ has_toc: true
 permalink: /monitors
 ---
 
-# 27" 1440p ~165
+Some monitor suggestions grouped by their core specs. Each link is to an in-depth review or note about the product. The "speculative" section implies reason to believe the monitor could be good (usually going off the panel used), but lacking in-depth reviews to prove so.
+
+**Note**: Monitors are not tiered inside the categories and they are not all comparable. As prices and availability vary in different regions, the idea is that you can find what's actually available for you at your budget and then compare them.
+
+# LCD
+
+## 27" 1440p ~165
 
 AOC: [Q27G3XMN](<https://www.youtube.com/watch?v=XbQ8Pe4WVxc>) [MiniLED, [1](<https://www.rtings.com/monitor/reviews/aoc/q27g3xmn>), [2](<https://tftcentral.co.uk/reviews/aoc-q27g3xmn>)], [Q27G4X](<https://www.youtube.com/watch?v=Ix9jwP_q_IM>)
 
@@ -24,9 +30,9 @@ KTC: [H27T22](<https://www.youtube.com/watch?v=zXeOjYRPj08>)
 
 Speculative: [Acer VG271U M3 / XV271U M3](<https://discord.com/channels/286168815585198080/873056765367955478/1293533301968994307>), XV272U V3
 
-# 27" 1440p 240+
+## 27" 1440p 240+
 
-Asus: [PG27AQN](<https://www.youtube.com/watch?v=eYFtLBM3a78>), [XG27AQMR](<https://www.youtube.com/watch?v=Wik4DhEaj_8>)
+Asus: [PG27AQN](<https://www.youtube.com/watch?v=eYFtLBM3a78>) [360 Hz], [XG27AQMR](<https://www.youtube.com/watch?v=Wik4DhEaj_8>) [300 Hz]
 
 HP: [Omen 27qs](<https://www.rtings.com/monitor/reviews/hp/omen-27qs>)
 
@@ -36,12 +42,11 @@ LG: [27GR83Q](<https://www.youtube.com/watch?v=Z-1zV7MYT4U>) [[1](<https://www.y
 
 Samsung: [G6 G65B](<https://www.rtings.com/monitor/reviews/samsung/odyssey-g6-s32bg65>) [27 & 32", VA, QC issues, [1](<https://www.typectechreviews.com/post/samsung-odyssey-g6-g65b-gaming-monitor-review>)], [G7 G73T / G74T / G75T](<https://www.youtube.com/watch?v=go1qsBetgV0>) [27" & 32", VA, QC issues, [1](<https://www.rtings.com/monitor/reviews/samsung/odyssey-g7-c32g75t>)] 
 
-Speculative:
-Acer XV272U KF
+Speculative: Acer XV272U F3 [300 Hz]
 
-# 4K ~144
+## 4K ~144
 
-## ~27"
+### ~27"
 
 Asus: [XG27UCS](<https://www.youtube.com/watch?v=7c_SW4539Lk>), [XG27UCG](<https://www.youtube.com/watch?v=rVYVDODQmQ8>)
 
@@ -51,7 +56,7 @@ LG: [27GP950](<https://www.rtings.com/monitor/reviews/lg/27gp950-b>)
 
 Speculative: Philips 27M1F5800 [LGD panel]
 
-## 32"
+### 32"
 
 Dell: [G3223Q](<https://www.rtings.com/monitor/reviews/dell/g3223q>)
 
@@ -59,17 +64,19 @@ Samsung: [32" Neo G7 G75NB](<https://www.youtube.com/watch?v=SMcABSuKAK0>) [Mini
 
 # OLED (WIP)
 
+AR = Advance replacement, warranty practice where you are sent a new monitor prior to the manufacturer receiving your unit first.
+
 Warranty duration including burn-in coverage (years):
 - Acer: 0
-- AOC: 3, possibly advance replacement
+- AOC: 3 possibly w/ AR?
 - Asus: 3
 - Corsair: 3
-- Dell: 3, advance replacement
+- Dell: 3 w/ AR
 - Gigabyte: 3
 - LG: 2 in US, ? elsewhere 
 - MSI: 3
-- Philips: 3, possibly advance replacement
-- Samsung: ? - 3, explicitly listed in specs of newer models
+- Philips: 4 w/ AR in US, 3 elsewhere
+- Samsung: ? - 3, only explicitly mentioned in specs of newer models
 
 ## 1440p 240 OLED
 
@@ -83,7 +90,7 @@ Corsair: [27QHD240](<https://www.youtube.com/watch?v=ksNCMduj_yc>)
 
 LG: [27GR95QE](<https://www.youtube.com/watch?v=2YBJFYGtmQk>), [27GS95QE](<https://www.rtings.com/monitor/reviews/lg/27gs95qe-b>)
 
-Speculative: AOC AG276QZD2, Gigabyte FO27Q2, MSI 271QPX E2, LG 27GS93QE
+Speculative: AOC AG276QZD2, Gigabyte FO27Q2, LG 27GS93QE, MSI 271QPX E2
 
 ## 1440p 360+ OLED
 
@@ -103,7 +110,7 @@ Speculative: MSI 271QPX
 
 ## 1440p UW OLED
 
-AOC: [PD49](<https://tftcentral.co.uk/reviews/aoc-agon-pro-porsche-design-pd49>)
+AOC: [PD49](<https://tftcentral.co.uk/reviews/aoc-agon-pro-porsche-design-pd49>) [49" DQHD]
 
 Asus: [PG34WCDM](<https://www.rtings.com/monitor/reviews/asus/rog-swift-oled-pg34wcdm>)
 
@@ -115,7 +122,7 @@ Gigabyte: [MO34WQC2](<https://www.youtube.com/watch?v=AaHOcqinQBI>)
 
 LG: [34GS95QE](<https://www.rtings.com/monitor/reviews/lg/34gs95qe-b>)
 
-MSI: [341CQPX](<https://www.youtube.com/watch?v=YYCKQ2Pcgw0>) [[1](<https://tftcentral.co.uk/reviews/msi-mpg-341cqpx-qd-oled>)]
+MSI: [341CQPX](<https://www.youtube.com/watch?v=YYCKQ2Pcgw0>) [[1](<https://tftcentral.co.uk/reviews/msi-mpg-341cqpx-qd-oled>)], [491CQP](<https://www.youtube.com/watch?v=IPgb7xaW6B0>), [49" DQHD, [1](<https://www.youtube.com/watch?v=xDYc6_jIDec>)]
 
 Philips: [34M2C6500](<https://www.youtube.com/watch?v=iPCvktwPp60>)
 
@@ -139,12 +146,14 @@ Asus: [PG32UCDM](<https://www.youtube.com/watch?v=qywLwR7KT9M>), [PG32UCDP](<htt
 
 Dell: [AW3225QF](<https://www.youtube.com/watch?v=GR9H_kg1uZU>)
 
-Gigabyte: [FO32U2/P](<https://www.youtube.com/watch?v=dLVLX_busi4>)
+Gigabyte: [FO32U2P](<https://www.youtube.com/watch?v=dLVLX_busi4>)
 
 LG: [32GS95UE](<https://www.youtube.com/watch?v=Jvdng6cqlhI>)
 
 MSI: [321URX](<https://www.youtube.com/watch?v=O1cPgQ9F4IY>)
 
+Philips: [32M2N8900](<https://www.youtube.com/watch?v=ly0pqcisD6c>)
+
 Samsung: [OLED G8 G80SD](<https://www.rtings.com/monitor/reviews/samsung/odyssey-oled-g8-g80sd-s32dg80>)
 
-Speculative: [MSI 321UPX](<https://tftcentral.co.uk/news/the-msi-mag-321upx-is-now-available-differences-with-the-mpg-model-explained>) [[FW support](<https://www.msi.com/news/detail/MAG-321UPX-QD-OLED-and-MAG-271QPX-QD-OLED-Support-Firmware-Update-143951>)]
+Speculative: [MSI 321UPX](<https://tftcentral.co.uk/news/the-msi-mag-321upx-is-now-available-differences-with-the-mpg-model-explained>) [[FW support](<https://www.msi.com/news/detail/MAG-321UPX-QD-OLED-and-MAG-271QPX-QD-OLED-Support-Firmware-Update-143951>)], [Gigabyte FO32U](<https://tftcentral.co.uk/news/gigabyte-aorus-fo32u2-offers-a-lower-cost-alternative-to-the-fo32u2p-without-the-displayport-2-1-connection>)
