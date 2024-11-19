@@ -20,6 +20,8 @@ Asus: [XG27ACS](<https://www.youtube.com/watch?v=cXgvP84g2BU>) [[1](<https://www
 
 Dell: [G2724D](<https://www.youtube.com/watch?v=pw9ByU6AOd8>) [[1](<https://www.rtings.com/monitor/reviews/dell/g2724d>), [2](<https://www.youtube.com/watch?v=7Bj59SEc3f8>)]
 
+Lenovo: [R27qe](<https://www.youtube.com/watch?v=PcUNbfsOrQM>)
+
 Philips: [27M2N5500](<https://www.youtube.com/watch?v=ElbQ5WiO95c>) [Matches Q27G4X]
 
 Samsung: [G5 G50D](<https://www.rtings.com/monitor/reviews/samsung/odyssey-g5-g50d-s27dg50>)
