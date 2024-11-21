@@ -92,13 +92,14 @@ permalink: /mice
 ### Logitech<sup>1</sup>
 * G102 (International Model) / G203 (US Model) <sup>2</sup>
 * G304 (International Model) / G305 (US Model) <sup>2</sup>
-* G Pro X Superlight
-* G Pro X Superlight 2
+* G Pro X Superlight <sup>3, 4</sup>
+* G Pro X Superlight 2 <sup>3</sup>
 
 ###### Notes
-###### <sup>1</sup> ** BUY WITH CAUTION! QUALITY CONTROL (QC) ISSUE**. Hard to recommend but they are perfectly fine if options are super limited.
+###### <sup>1</sup> ** BUY WITH CAUTION! QUALITY CONTROL (QC) ISSUE**. Older models are very prone to double clicking due to the use bad switches.Hard to recommend any of their models but they are perfectly fine if options are super limited. 
 ###### <sup>2</sup> For those who are in a budget and have very limited options due to their local market.
-###### <sup>3</sup> 
+###### <sup>3</sup> Not recommended to buy new. Can be bought used for cheap. Units with double clicking can be easily fixed by either soldering new switches or buying a PCB off aliexpress 
+###### <sup>4</sup> Recommended getting the Maya X or Viper V3 Pro if it's available in your market. The shape is very similar but it is built much better. 
 
 ### Ninjutso
 * Sora V2
@@ -141,9 +142,10 @@ permalink: /mice
 ### Waizowl
 
 ### WLMouse
-##### Beast X (Mini / Max / 8k)
+* Beast X (Mini / Max / 8k)
 
 ### Zaopin
+* Z1 Pro
 
 ### Zowie
 
