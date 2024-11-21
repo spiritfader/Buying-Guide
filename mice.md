@@ -71,10 +71,13 @@ permalink: /mice
 ### G-Wolves
  
 ### Hitscan
+* Hyperlight
 
 ### HyperX 
+Pulsefire Haste
 
 ### Keychron 
+
 
 ### Lamzu
 * Atlantis OG V2<sup>1</sup>
@@ -138,6 +141,7 @@ permalink: /mice
 ### VGN
 
 ### VXE
+* R1 Pro
 
 ### Waizowl
 
