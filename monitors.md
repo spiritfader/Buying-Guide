@@ -22,15 +22,13 @@ Dell: [G2724D](<https://www.youtube.com/watch?v=pw9ByU6AOd8>) [[1](<https://www.
 
 Lenovo: [R27qe](<https://www.youtube.com/watch?v=PcUNbfsOrQM>)
 
-Philips: [27M2N5500](<https://www.youtube.com/watch?v=ElbQ5WiO95c>) [Matches Q27G4X]
+Philips: [27M2N5500](<https://www.youtube.com/watch?v=ElbQ5WiO95c>) [=Q27G4X]
 
 Samsung: [G5 G50D](<https://www.rtings.com/monitor/reviews/samsung/odyssey-g5-g50d-s27dg50>)
 
-Iiyama: [GB2770QSU-B1](<https://www.kitguru.net/peripherals/dominic-moass/iiyama-gb2770qsu-1440p-165hz-monitor-review/6/>), [GB2770QSU-B5](<https://www.displayspecifications.com/en/news/49c490f>) [Refer to B1]
+KTC: [H27T22C](<https://youtu.be/hkPUK8FM_VQ>)
 
-KTC: [H27T22](<https://www.youtube.com/watch?v=zXeOjYRPj08>)
-
-Speculative: [Acer VG271U M3 / XV271U M3](<https://discord.com/channels/286168815585198080/873056765367955478/1293533301968994307>), XV272U V3
+Speculative: [Acer VG271U M3 / XV271U M3](<https://discord.com/channels/286168815585198080/873056765367955478/1293533301968994307>)
 
 ## 27" 1440p 240+
 
@@ -84,7 +82,7 @@ Warranty duration including burn-in coverage (years):
 
 Acer: [X27U](<https://www.youtube.com/watch?v=9Fnmz2e_4xI>) [[FW update](<https://www.youtube.com/watch?v=n58SwahHSVk>)]
 
-AOC: [AG276QZD](<https://www.youtube.com/watch?v=C0PS9yM-t6Y>)
+AOC: [AG276QZD](<https://www.youtube.com/watch?v=C0PS9yM-t6Y>), [AG276QZD2](<https://www.youtube.com/watch?v=7tXNC-rFs1g>)
 
 Asus: [PG27AQDM](<https://www.youtube.com/watch?v=R0AkfhZp70w>) [[1](<https://www.youtube.com/watch?v=CqRT06hFDL8>)], [XG27AQDMG](<https://www.youtube.com/watch?v=4OD1Gml24gI>) [FW issues with image retention?]
 
@@ -92,7 +90,7 @@ Corsair: [27QHD240](<https://www.youtube.com/watch?v=ksNCMduj_yc>)
 
 LG: [27GR95QE](<https://www.youtube.com/watch?v=2YBJFYGtmQk>), [27GS95QE](<https://www.rtings.com/monitor/reviews/lg/27gs95qe-b>)
 
-Speculative: AOC AG276QZD2, Gigabyte FO27Q2, LG 27GS93QE, MSI 271QPX E2
+Speculative: Gigabyte FO27Q2, LG 27GS93QE, MSI 271QPX E2, Samsung OLED G6 G61SD
 
 ## 1440p 360+ OLED
 
@@ -108,27 +106,27 @@ Philips: [27M2N8500](<https://www.youtube.com/watch?v=k7fe2KeD25g>)
 
 Samsung: [OLED G6 G60SD](<https://www.rtings.com/monitor/reviews/samsung/odyssey-oled-g6-g60sd-s27dg60>)
 
-Speculative: MSI 271QPX
+Speculative: MSI 271QPX [[FW Support](<https://www.msi.com/news/detail/MAG-321UPX-QD-OLED-and-MAG-271QPX-QD-OLED-Support-Firmware-Update-143951>)]
 
 ## 1440p UW OLED
 
-AOC: [PD49](<https://tftcentral.co.uk/reviews/aoc-agon-pro-porsche-design-pd49>) [49" DQHD]
+AOC: [PD49](<https://tftcentral.co.uk/reviews/aoc-agon-pro-porsche-design-pd49>) [49" DQHD 240 Hz]
 
-Asus: [PG34WCDM](<https://www.rtings.com/monitor/reviews/asus/rog-swift-oled-pg34wcdm>)
+Asus: [PG34WCDM](<https://www.rtings.com/monitor/reviews/asus/rog-swift-oled-pg34wcdm>) [240 Hz]
 
-Corsair: [34WQHD240-C](<https://www.youtube.com/watch?v=_5gInzdwoQs>)
+Corsair: [34WQHD240-C](<https://www.youtube.com/watch?v=_5gInzdwoQs>) [240 Hz]
 
 Dell: [AW3423DWF](<https://www.youtube.com/watch?v=b0aLF3KVOTQ>) [[FW update](<https://www.youtube.com/watch?v=jTvqGFBPIw4>), [1](<https://www.rtings.com/monitor/reviews/dell/alienware-aw3423dwf>)]
 
-Gigabyte: [MO34WQC2](<https://www.youtube.com/watch?v=AaHOcqinQBI>)
+Gigabyte: [MO34WQC2](<https://www.youtube.com/watch?v=AaHOcqinQBI>) [240 Hz]
 
-LG: [34GS95QE](<https://www.rtings.com/monitor/reviews/lg/34gs95qe-b>)
+LG: [34GS95QE](<https://www.rtings.com/monitor/reviews/lg/34gs95qe-b>) [240 Hz]
 
-MSI: [341CQPX](<https://www.youtube.com/watch?v=YYCKQ2Pcgw0>) [[1](<https://tftcentral.co.uk/reviews/msi-mpg-341cqpx-qd-oled>)], [491CQP](<https://www.youtube.com/watch?v=IPgb7xaW6B0>), [49" DQHD, [1](<https://www.youtube.com/watch?v=xDYc6_jIDec>)]
+MSI: [341CQPX](<https://www.youtube.com/watch?v=YYCKQ2Pcgw0>) [240 Hz, [1](<https://tftcentral.co.uk/reviews/msi-mpg-341cqpx-qd-oled>)], [491CQP](<https://www.youtube.com/watch?v=IPgb7xaW6B0>), [49" DQHD, [1](<https://www.youtube.com/watch?v=xDYc6_jIDec>)]
 
-Philips: [34M2C6500](<https://www.youtube.com/watch?v=iPCvktwPp60>)
+Philips: [34M2C6500](<https://www.youtube.com/watch?v=iPCvktwPp60>) [49M2C8900](<https://www.youtube.com/watch?v=Pe4hfsUeHks>) [49" DQHD 240 Hz, [1](<https://www.youtube.com/watch?v=31lzfW_vjKM>), [2](<https://www.kitguru.net/peripherals/dominic-moass/philips-evnia-49m2c8900-review-240hz-qd-oled-super-ultrawide/all/1/>)], [49M2C8900L](<https://www.youtube.com/watch?v=-Qbm93I7fi4>) [49" DQHD]
 
-Samsung: [OLED G8 G85SB](<https://www.youtube.com/watch?v=RmDmJ_1SudA>), [OLED G9 G90SC / G95SC](<https://www.youtube.com/watch?v=BSTds2SjxsU>) [49" DQHD, [1](<https://www.rtings.com/monitor/reviews/samsung/odyssey-oled-g9-g95sc-s49cg95>)]
+Samsung: [OLED G8 G85SB](<https://www.youtube.com/watch?v=RmDmJ_1SudA>), [OLED G9 G90SC / G95SC](<https://www.youtube.com/watch?v=BSTds2SjxsU>) [49" DQHD 240 Hz, [1](<https://www.rtings.com/monitor/reviews/samsung/odyssey-oled-g9-g95sc-s49cg95>)]
 
 Speculative: AOC PD34, Samsung OLED G8 G85SD, Acer X34 OLED, X34 QD-OLED
 
