@@ -24,6 +24,8 @@ Lenovo: [R27qe](<https://www.youtube.com/watch?v=PcUNbfsOrQM>)
 
 Philips: [27M2N5500](<https://www.youtube.com/watch?v=ElbQ5WiO95c>) [=Q27G4X]
 
+MSI: [274QRFW](<https://hardwareand.co/dossiers/peripheriques/analyse-le-moniteur-mag-274qrfw-de-chez-msi>) [[1](<https://youtu.be/Gt12D4TUnUU?t=6m47s>)]
+
 Samsung: [G5 G50D](<https://www.rtings.com/monitor/reviews/samsung/odyssey-g5-g50d-s27dg50>)
 
 KTC: [H27T22C](<https://youtu.be/hkPUK8FM_VQ>)
