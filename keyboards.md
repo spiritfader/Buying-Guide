@@ -18,7 +18,7 @@ In the modern keyboard market, many types of switches exist in keyboards.
 > - Membrane
 
 
-#Criteria
+# Criteria
 In recommendations, keyboards will be judged on many factors such as:
 - Software support
 - Build quality
@@ -37,28 +37,28 @@ Other small features will also be noted down such as
 Prebuilds are pre-assembled keyboards that will work right out of the box. 
 
 Many newer prebuild boards now offer 2.4ghz wireless and/or Bluetooth compatibility, providing flexibility in how you connect your keyboard.
-> **PLEASE NOTE: This does **NOT** mean that the keyboard cannot be used wired. In fact, most will require a wired connection to charge the battery**
+> **PLEASE NOTE**: This does **NOT** mean that the keyboard cannot be used wired. In fact, most will require a wired connection to charge the battery
 
 ### ~50$
 
-Keychron C3 Pro <sup>1</sup> : $40-50  :star::star::star:
+Keychron C3 Pro <sup>1</sup> : $40-50  ⭐⭐⭐⭐
 
-TEAMWOLF Raven68 (HE) <sup>2</sup> : $45-65 :star::star:
+TEAMWOLF Raven68 (HE) <sup>2</sup> : $45-65 ⭐⭐⭐
 
-Logitech K120 : $15 :star:
+Logitech K120 : $15 ⭐
 
 ### ~$100
-Shortcut Studio Bridge75 : $85-120 :star::star::star::star::star:
+Shortcut Studio Bridge75 : $85-120 ⭐⭐⭐⭐⭐
 
-Chilkey ND75 : $99 :star::star::star::star::star:
+Chilkey ND75 : $99 ⭐⭐⭐⭐⭐
 
-Keychron V Max : ~$100 :star::star::star::star:
+Keychron V Max : ~$100 ⭐⭐⭐⭐
 
-Womier SK75 <sup>3</sup> : $100 :star::star::star::star:
+Womier SK75 <sup>3</sup> : $100 ⭐⭐⭐⭐
 
-Womier SK65 : $90 :star::star::star:
+Womier SK65 : $90 ⭐⭐⭐
 
-###~150
+### ~150
 
 
 
