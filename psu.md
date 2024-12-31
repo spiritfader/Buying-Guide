@@ -1,11 +1,11 @@
 ---
-title: PSUs
+title: How to buy a PSU
 layout: home
 nav_order: 1
 has_toc: true
 permalink: /psu
 ---
-# How to buy a PSU
+# What to look for when buying a PSU
 
 There are a few key things you want your PSU to succeed at. It must:
 - Not explode/catch fire/trip a breaker/otherwise threaten your safety
