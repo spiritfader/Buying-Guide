@@ -7,4 +7,4 @@ permalink: /
 ---
 
 
-# The Tech™ Peripheral Buying Guide
+# The Tech™ Buying Guide
