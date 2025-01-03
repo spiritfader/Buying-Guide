@@ -91,7 +91,6 @@ Many newer prebuild boards now offer 2.4ghz wireless and/or Bluetooth compatibil
 
 # Avoid List
 
-
 | Category                 | Brands                                                                                       | Reasons                                                                                                                                                                                                                   |
 |:-------------------------|:---------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Gaming brands**         | Razer, Corsair, Steelseries, Logitech, Glorious, Asus etc                                     | **Expensive Models**: An example is the Razer Blackwidow V4 Pro, retailing at $230 with plastic construction, worse software and internals.                                                                               |
@@ -103,4 +102,7 @@ Many newer prebuild boards now offer 2.4ghz wireless and/or Bluetooth compatibil
 |                           |                                                                                              | **Repurposed OEM**: It's not necessarily bad to reuse OEMs, but this can explain the trend of unreliable PCBs across other boards, and cloned keyboards where they look oddly similar (KiiBOOM Loop75/Monsgeek M1).        |
 |                           |                                                                                              | **Software**: Same as gaming brands, mostly locally saved and unstable. These also tend to be in Chinese or other foreign languages which can make them inaccessible for most people.                                      |
 
+
+
+# Custom Keyboard
 
