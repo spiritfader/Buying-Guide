@@ -90,9 +90,12 @@ Many newer prebuild boards now offer 2.4ghz wireless and/or Bluetooth compatibil
 
 
 # Avoid List
-| Category | Brands| Reasons |
-|--|--|--|
-|**Gaming brands** |Razer, Corsair, Steelseries, Logitech, Glorious, Asus etc | - **Expensive Models**: An example is the Razer Blackwidow V4 Pro, retailing at $230 with plastic construction, worse software and internals <br/>- **Poor Construction**: These boards tend to use cheaper material like ABS plastic and stiffer internals which may give an undesirable typing experience <br/>  - **Local Software**: Brands often make locally saved software for their keyboards such as Razer Synapse which could affect the computer's performance <br/>  - **Limited customisation**: Boards often lacks customisation such as soldered PCB, irregular keycaps, and untuned stabilisers. |
-|**Budget Keyboard Brands** | Aula, Akko, Ajazz, Leobog, Royal Kludge, VGN, MageGee, Redragon | - **Reliability:** These boards tend to be unreliable such as some stop working partially/completely and some have even [caught on fire](https://imgur.com/a/royal-kludge-is-good-brand-you-should-buy-keyboards-x7LTFwp). <br/> - **Repurposed OEM**: It's not necessarily bad to reuse OEMs but this can explain the trend of unreliable PCBs across other boards, and cloned keyboards where they look oddly similar (KiiBOOM Loop75/Monsgeek M1) <br/> - **Software:** Same as gaming brands, mostly locally saved and unstable. These also tend to be in Chinese or other foreign languages which can make them inaccessible for most people. |
+
+
+
+| Category | Brands | Reasons |
+|:--------|:---------|:-------|
+| **Gaming brands**   | Razer, Corsair, Steelseries, Logitech, Glorious, Asus etc  | - **Expensive Models**: An example is the Razer Blackwidow V4 Pro, retailing at $230 with plastic construction, worse software and internals  - **Poor Construction**: These boards tend to use cheaper material like ABS plastic and stiffer internals which may give an undesirable typing experience  - **Local Software**: Brands often make locally saved software for their keyboards such as Razer Synapse which could affect the computer's performance  - **Limited customisation**: Boards often lacks customisation such as soldered PCB, irregular keycaps, and untuned stabilisers.|
+|**Budget Keyboard Brands** | Aula, Akko, Ajazz, Leobog, Royal Kludge, VGN, MageGee, Redragon |- **Reliability:** These boards tend to be unreliable such as some stop working partially/completely and some have even [caught on fire](https://imgur.com/a/royal-kludge-is-good-brand-you-should-buy-keyboards-x7LTFwp)  - **Repurposed OEM**: It's not necessarily bad to reuse OEMs but this can explain the trend of unreliable PCBs across other boards, and cloned keyboards where they look oddly similar (KiiBOOM Loop75/Monsgeek M1)  - **Software:** Same as gaming brands, mostly locally saved and unstable. These also tend to be in Chinese or other foreign languages which can make them inaccessible for most people.|
 
 
