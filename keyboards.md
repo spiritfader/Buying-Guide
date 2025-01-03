@@ -19,38 +19,34 @@ In the modern keyboard market, many types of switches exist in keyboards.
 
 
 # Criteria
-In recommendations, keyboards will be judged on many factors such as:
+Please note that keyboards are highly subjective and many will have different experiences. For transparency reasons, recommendations are based on more objective factors such as:
 - Software support
 - Build quality
 - Price-to-Performance
-
-Other small features will also be noted down such as
-- Hot-swappable
-- Customisation
-- Lubed switches and stabilisers
-
-
+- Consensus and reviews
 
 
 # Prebuild
 
 Prebuilds are pre-assembled keyboards that will work right out of the box. 
 
+These keyboards are generally cheaper than custom keyboards due to mass production. 
+
 Many newer prebuild boards now offer 2.4ghz wireless and/or Bluetooth compatibility, providing flexibility in how you connect your keyboard.
 > **PLEASE NOTE**: This does **NOT** mean that the keyboard cannot be used wired. In fact, most will require a wired connection to charge the battery
 
-## ~50$ Range
+## < ~50$ 
 
-- Keychron C3 Pro <sup>1</sup> : $40-50  ⭐
+- Keychron C3 Pro <sup>1</sup> : $40-50  ⭐⭐
 
 - TEAMWOLF Raven68 (HE) <sup>2</sup> : $45-65 
 
 - Logitech K120 : $15 
 
 ## ~$50-100
-- **Shortcut Studio Bridge75 <sup>3</sup> :** $85-120 ⭐⭐
+- **Shortcut Studio Bridge75 <sup>3</sup> :** $85-120 ⭐⭐⭐
 
-- **Chilkey ND75** : $99 ⭐
+- **Chilkey ND75** : $99 ⭐⭐
 
 - Keychron V Max : ~$100 
 
@@ -66,7 +62,7 @@ Many newer prebuild boards now offer 2.4ghz wireless and/or Bluetooth compatibil
 - Melgeek Made84 Pro (HE): $150
 
 ## ~150-200+
-- Qwertykey Evo80: $170 ⭐⭐
+- Qwertykey Evo80: $170 ⭐⭐⭐
 - Luminkey Luminkey65/75v2: $179 ⭐
   
 - Wooting 60HE+ (HE): $175 ⭐
@@ -94,35 +90,9 @@ Many newer prebuild boards now offer 2.4ghz wireless and/or Bluetooth compatibil
 
 
 # Avoid List
-### Big Gaming Companies
-- Razer
-- Corsair
-- Steelseries
-- HyperX
-- Logitech
-- ASUS
-
-> Many issues arise from big-name gaming companies - 
-> - Many of their flagship models such as Razer's Blackwidow V4 Pro ($300) are incredibly expensive for what you get.
-> - Builds are generally made with cheap materials such as plastic and incredibly stiff mounting styles, which results in an undesirable typing experience
-> - Software such as Razer Synapse, and Corsair iCUE are downloaded locally and are cited as bloatware.
-> - Lack of customisations - these boards tend to have soldered PCB, irregular keycap size and unlubed switches/stabilisers.
-
-### Cheap keyboard companies
-  - Akko + Monsgeek 
-  - Ajazz
-  - Aula
-  - Kiiboom
-  - Skyloong
-  - Feker
-  - Leobog
-  - Royal Kludge
-  - MageGee
-  - VGN
-  - Other cheap companies
-> - These cheap keyboards have been shown many times to be using the same manufacturers/OEMs or strikingly similar. An example would the Kiiboom Loop75 and Monsgeek M1 looks very similar.
-> - Some of these have many reliability issues and some have been known to explode such as the Royal Kludge RK61
-
-
+| Category | Brands| Reasons
+|--|--|--|
+|**Gaming brands** |Razer, Corsair, Steelseries, Logitech, Glorious, Asus etc | - **Expensive Models**: An example is the Razer Blackwidow V4 Pro, retailing at $230 with plastic construction, worse software and internals.<br>- **Poor Construction**: These boards tend to use cheaper material like ABS plastic and stiffer internals which may give an undesirable typing experience <br> - **Local Software**: Brands often make locally saved software for their keyboards such as Razer Synapse which could affect the computer's performance <br> - **Limited customisation**: Boards often lacks customisation such as soldered PCB, irregular keycaps, and untuned stabilisers.
+|**Budget Keyboard Brands** | Aula, Akko, Ajazz, Leobog, Royal Kludge, VGN, MageGee, Redragon | - **Reliability:** These boards tend to be unreliable such as some stop working partially/completely and some have even [caught on fire](https://imgur.com/a/royal-kludge-is-good-brand-you-should-buy-keyboards-x7LTFwp). <br>- **Repurposed OEM**: It's not necessarily bad to reuse OEMs but this can explain the trend of unreliable PCBs across other boards, and cloned keyboards where they look oddly similar (KiiBOOM Loop75/Monsgeek M1) <br> - **Software:** Same as gaming brands, mostly locally saved and unstable. These also tend to be in Chinese or other foreign languages which can make them inaccessible for most people.
 
 
