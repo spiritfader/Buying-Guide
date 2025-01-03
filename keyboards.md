@@ -93,14 +93,25 @@ Many newer prebuild boards now offer 2.4ghz wireless and/or Bluetooth compatibil
 
 | Category | Brands | Reasons |
 |:--------|:---------|:-------|
-| **Gaming brands**   | Razer, Corsair, Steelseries, Logitech, Glorious, Asus etc  | - **Expensive Models**: An example is the Razer Blackwidow V4 Pro, retailing at $230 with plastic construction, worse software and internals  - **Poor Construction**: These boards tend to use cheaper material like ABS plastic and stiffer internals which may give an undesirable typing experience  - **Local Software**: Brands often make locally saved software for their keyboards such as Razer Synapse which could affect the computer's performance  - **Limited customisation**: Boards often lacks customisation such as soldered PCB, irregular keycaps, and untuned stabilisers.|
-|**Budget Keyboard Brands** | Aula, Akko, Ajazz, Leobog, Royal Kludge, VGN, MageGee, Redragon |- **Reliability:** These boards tend to be unreliable such as some stop working partially/completely and some have even [caught on fire](https://imgur.com/a/royal-kludge-is-good-brand-you-should-buy-keyboards-x7LTFwp)  - **Repurposed OEM**: It's not necessarily bad to reuse OEMs but this can explain the trend of unreliable PCBs across other boards, and cloned keyboards where they look oddly similar (KiiBOOM Loop75/Monsgeek M1)  - **Software:** Same as gaming brands, mostly locally saved and unstable. These also tend to be in Chinese or other foreign languages which can make them inaccessible for most people.|
+| **Gaming brands**   | Razer, Corsair, Steelseries, Logitech, Glorious, Asus etc  |  **Expensive Models**: An example is the Razer Blackwidow V4 Pro, retailing at $230 with plastic construction, worse software and internals <br><br>  **Poor Construction**: These boards tend to use cheaper material like ABS plastic and stiffer internals which may give an undesirable typing experience   **Local Software**: Brands often make locally saved software for their keyboards such as Razer Synapse which could affect the computer's performance <br><br>  **Limited customisation**: Boards often lacks customisation such as soldered PCB, irregular keycaps, and untuned stabilisers.|
+|**Budget Keyboard Brands** | Aula, Akko, Ajazz, Leobog, Royal Kludge, VGN, MageGee, Redragon | **Reliability:** These boards tend to be unreliable such as some stop working partially/completely and some have even [caught on fire](https://imgur.com/a/royal-kludge-is-good-brand-you-should-buy-keyboards-x7LTFwp)  <br><br> **Repurposed OEM**: It's not necessarily bad to reuse OEMs but this can explain the trend of unreliable PCBs across other boards, and cloned keyboards where they look oddly similar (KiiBOOM Loop75/Monsgeek M1)  <br><br> **Software:** Same as gaming brands, mostly locally saved and unstable. These also tend to be in Chinese or other foreign languages which can make them inaccessible for most people.|
 
 # Custom
 
 Custom keyboards are keyboards that you build yourself. 
 
-If you are considering a custom keyboard, there are many things you have to consider
-- Budget - I recommend having a minimum budget of $200. Going lower potentially compromises the quality of the keyboard to the point a prebuild will be more worth considering.
-- Passion - If you have an interest in building your keyboard, this is a good option
-- Patience - Due to the low volume of these boards, they tend to have a waiting period. Some can range from a few weeks, and some can range to even a year.
+If you are considering a custom keyboard, keep in mind of these factors:
+1. **Budget** - I recommend having a minimum budget of **$200** when considering a build. While it's possible to spend less, opting for lower-end components will compromise the overall quality, making a pre-built keyboard a more viable option.
+2. **Passion**: If you have an interest in the custom keyboard hobby, consider a custom keyboard
+3. **Patience** - Custom keyboards are produced in small batches, meaning a potentially significant wait time. These wait times can range from a few weeks to even years.
+4. **Research** - Researching and understanding each component in a keyboard will help you make informed decisions in selecting parts.
+
+
+| Components | Description |
+|:--------|:--------- |
+| Case | The shell of the keyboard that houses the internal components|
+| PCB | Printed circuit board, responsible for registering keypresses and sending signal to the computer|
+| Stabilisers | Mechanism that is used to stabilise the larger keys to prevent wobbling and ensure smooth key presses|
+| Switches | The mechanism that registers input| 
+| Plate | A plate is used to position the switches to the PCB, and connects them | 
+| Keycaps | Externalpiece that you press that covers the switches |
