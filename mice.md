@@ -75,8 +75,11 @@ permalink: /mice
 * Hyperlight
 
 ### HyperX 
-* Pulsefire Haste
-* Pulsefire Haste 2 (Wired)
+* Pulsefire Haste 
+* Pulsefire Haste 2 (Wired only) <sup>1</sup>
+
+###### Notes
+###### <sup>1</sup> Wireless variant has an issue with latency ([TechPowerUp Haste 2 Wireless Latency Test] (https://tpucdn.com/review/hyperx-pulsefire-haste-2-wireless/images/clicklatency.png))
 
 ### Keychron 
 
