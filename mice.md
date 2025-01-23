@@ -125,12 +125,14 @@ permalink: /mice
   - Discontinued and replaced by Razer Cobra.
 * Cobra
 * Cobra Pro
+* Viper V2 Pro
 * Viper V3 (Hyperspeed / Pro)
 
 ###### Notes
 ###### <sup>1</sup> Razer Viper Mini can be seen in certain regional market for cheap. **ONLY BUY IF IT IS HALF THE MSRP VALUE. BE SURE TO CROSS REFERENCE WITH LOCAL MARKET**. Otherwise Razer Cobra is a direct replacement.
 
 ### Scyrox<sup>1</sup>
+* V6
 * V8 
   - Similar to Pulsar X2H shape
 
