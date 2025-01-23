@@ -54,11 +54,11 @@ permalink: /mice
 ### Endgame Gear<sup>1</sup>
 * 
 
-### Finalmouse<sup>1</sup>
+### Finalmouse<sup>1</sup> **BUY WITH CAUTION! QUALITY CONTROL ISSUES**
 * Ultralight X<sup>2</sup>
   - Shape is similar to Beast X 
 ###### Notes
-###### <sup>1</sup> **BUY WITH CAUTION! QUALITY CONTROL ISSUES**. Otherwise a great mouse if you do get a unit with good quality control.
+###### <sup>1</sup> Great products if you do get a unit with good quality control.
 ###### <sup>2</sup> Recommend looking into the Beast X lineup. Similar in shape but built better.
 
 ### Fnatic
@@ -69,7 +69,10 @@ permalink: /mice
 ###### <sup>1</sup> Collaboration with Lamzu. Only difference is color (Fnatic Orange).
 ###### <sup>2</sup> Optical switch implementation may not be to everyones liking.
 
-### G-Wolves
+### G-Wolves<sup>1</sup> **BUY WITH CAUTION! QUALITY CONTROL AND CUSTOMER SERVICE ISSUES**
+*
+
+###### <sup>1</sup> Company has a history of completely ghosting their customers who try to initiate an RMA process however some had some luck getting a response from them.
  
 ### Hitscan
 * Hyperlight
@@ -96,14 +99,14 @@ permalink: /mice
 ###### <sup>1</sup> Avoid non 4k models if possible. Mainly had issues with coating wearing down. 
 ###### <sup>2</sup> Optical switch implementation may not be to everyones liking.
 
-### Logitech<sup>1</sup>
+### Logitech<sup>1</sup> ** BUY WITH CAUTION! QUALITY CONTROL (QC) ISSUE**. 
 * G102 (International Model) / G203 (US Model) <sup>2</sup>
 * G304 (International Model) / G305 (US Model) <sup>2</sup>
 * G Pro X Superlight <sup>3, 4</sup>
 * G Pro X Superlight 2 <sup>3, 4</sup>
 
 ###### Notes
-###### <sup>1</sup> ** BUY WITH CAUTION! QUALITY CONTROL (QC) ISSUE**. Older models are very prone to double clicking due to the use bad switches.Hard to recommend any of their models but they are perfectly fine if options are super limited. 
+###### <sup>1</sup> Older models are very prone to double clicking due to the use bad switches.Hard to recommend any of their models but they are perfectly fine if options are super limited. 
 ###### <sup>2</sup> For those who are in a budget and have very limited options due to their local market.
 ###### <sup>3</sup> Recommend getting the Maya X or Viper V3 Pro if it's available in your market. The shape is very similar but it is built much better. 
 ###### <sup>4</sup> Not recommended to buy new. Can be bought used for cheap. Units with double clicking can be easily fixed by either soldering new switches or buying a hotswap PCB off aliexpress. G Pro X Superlight 2 PCB can also be swapped out to run mechanical switches.
