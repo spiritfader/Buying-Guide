@@ -76,7 +76,7 @@ permalink: /mice
 
 ### HyperX 
 * Pulsefire Haste
-* Pulsefire Haste 2
+* Pulsefire Haste 2 (Wired)
 
 ### Keychron 
 
