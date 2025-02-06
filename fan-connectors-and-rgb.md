@@ -30,7 +30,7 @@ Fans come in all shapes and sizes, but so do their connectors. These few are the
 #### 3 pin connector
 The 3 pin connector has been widely used for years. It has 3 connections: negative and positive for **voltage regulation** and a tachometer readout. 
 
-connecting a 4pin connector to a 3pin header is possible, given it isn't blocked by a neighbourin component/connector.
+connecting a 4pin connector to a 3pin header is possible, given it isn't blocked by a neighbouring component/connector.
 
 
 ![3 pin connector pinout](https://i.imgur.com/TzcMQ8i.png) 
@@ -48,7 +48,7 @@ connecting a 3pin connector to a 4pin header is possible, voltage control will b
 
 
 #### Peripheral connectors
-4pin Molex can frequently be found on cheap cases and case fans, they connect straight to your power supply and thus don't allow for any speed control. This applies to any direct connection to a power supply (E.g SATA power).
+4pin Molex can frequently be found on cheap cases and case fans, they connect straight to your power supply and thus don't allow for any speed control. This applies to any direct connection to a power supply (E.g. SATA power).
 ![4 pin Molex pinout](https://i.imgur.com/sMkmC6o.png)
 <br><sup>colours might not match*</sup>
 
@@ -56,7 +56,7 @@ connecting a 3pin connector to a 4pin header is possible, voltage control will b
 #### proprietary connectors
 As times have evolved many brands have come out with their own proprietary system for fans and RGB, there are too many to list them all. 
 
-brands notorious for proprietary fan/RGB connecotrs include: Lian Li, Corsair and NZXT.
+brands notorious for proprietary fan/RGB connectors include: Lian Li, Corsair and NZXT.
 
 ![proprietary connectors](https://i.imgur.com/ZKLg0CA.png)
 
@@ -68,19 +68,21 @@ What happens if you have more fans than fan headers? Don't worry, there's always
 Some fans will come with an extra female connector chained to their main connector.
 Daisy chain connectors will be missing the tachometer pin, this is normal as you can only have one tachometer readout/header.
 
-**Attention:** *A single fan header can only supply a limited amount of current, connecting too many fans to a singular header can cause irrevirsible damage to your components. Consult your motherboard manual for a max current rating of the header. The power draw of a fan depends on the model, check the back of the fan for a power rating.*
+**Attention:** *A single fan header can only supply a limited amount of current, connecting too many fans to a singular header can cause irreversible damage to your components. Consult your motherboard manual for a max current rating of the header. The power draw of a fan depends on the model, check the back of the fan for a power rating.*
 ![daisy chain 4 pin PWM](https://i.imgur.com/qfxLnnR.png)
 #### Splitters
-A splitter is a cable that splits one connector into multiple. This method works with with no matter the speed control method, even if there isn't any. 
+A splitter is a cable that splits one connector into multiple. This method works with no matter the speed control method, even if there isn't any. 
 
-Only one of the 
+Only one of the splitter's connectors will have a tachometer pin if applicable.
 
-**Attention:** *A single fan header can only supply a limited amount of current, connecting too many fans to a singular header can cause irrevirsible damage to your components. Consult your motherboard manual for a max current rating of the header. The power draw of a fan depends on the model, check the back of the fan for a power rating.*
+**Attention:** *A single fan header can only supply a limited amount of current, connecting too many fans to a singular header can cause irreversible damage to your components. Consult your motherboard manual for a max current rating of the header. The power draw of a fan depends on the model, check the back of the fan for a power rating.*
 ![examples of splitters](https://i.imgur.com/NlnHwV2.png)
 
 #### Hubs
-Theres many types of fan hubs but most commonly they use the 4 pin PWM fan header.
+There's many types of fan hubs but most commonly they use the 4 pin PWM fan header.
 These hubs replicate the PWM signal across all fans connected to the hub. They also have a power connection the power supply which allows for more headroom and the ability to connect many fans to one 4 pin header.
+
+Only one of the hub's connectors will have a tachometer pin if applicable.
 
 ![arctic fan hub](https://i.imgur.com/4JsouQ5.png)
 
