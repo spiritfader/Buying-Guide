@@ -50,8 +50,9 @@ connecting a 3pin connector to a 4pin header is possible, voltage control will b
 
 
 ### Peripheral connectors
-4pin Molex can frequently be found on cheap cases and case fans, they connect straight to your power supply and thus don't allow for any speed control. This applies to any direct connection to a power supply (E.g. SATA power).
-![4 pin Molex pinout](https://i.imgur.com/sMkmC6o.png)
+4pin Molex can frequently be found on cheap cases and case fans, they connect straight to your power supply and thus don't allow for any speed control. The fan will be stuck at 100% speed. This applies to any direct connection to a power supply (E.g. SATA power).
+<p align=left><img src="https://i.imgur.com/0Io7EXf.png" alt="4 pin Molex pinout and SATA connector" style="max-width:50%;"></p> 
+
 <br><sup>colours might not match*</sup>
 
 
