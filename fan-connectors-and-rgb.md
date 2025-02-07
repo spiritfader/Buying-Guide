@@ -202,4 +202,4 @@ Microcontroller RGB control software (DIY project): <https://kno.wled.ge/>
 SATA power pinout: <https://allpinouts.org/pinouts/connectors/data_storage/serial-ata-sata-serial-advanced-technology-attachment/>
 
 # Closing remarks
-For questions feel free to join the Tech™ discord server: https://discord.gg/GtHCv2meW4
+For questions feel free to join the Tech™ discord server: <https://discord.gg/GtHCv2meW4>
