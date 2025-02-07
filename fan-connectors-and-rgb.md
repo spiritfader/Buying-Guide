@@ -9,7 +9,7 @@ permalink: /fan-connectors-and-rgb
 # Fan and RGB wiring guide
 Understanding PC fan wiring and RGB connections is essential for anyone building or maintaining a computer. Fans are critical for cooling components, while RGB lighting allows for customization of your system’s appearance. However, the variety of connectors and wiring configurations can be confusing for beginners.
 
-This guide provides a straightforward explanation of the different types of fan and RGB connectors, their functions, and how to properly connect them to your motherboard or controller. By the end, you’ll have a clear understanding of how to set up and manage your PC’s cooling and lighting systems effectively.
+This guide provides a straightforward explanation of the different types of fan and RGB connectors, their functions, and how they connect to your motherboard or controller. By the end, you’ll have a clear understanding of  your PC’s cooling and lighting systems work.
 
 # Fans
 ## Essentials
@@ -55,7 +55,7 @@ connecting a 3pin connector to a 4pin header is possible, voltage control will b
 <br><sup>colours might not match*</sup>
 
 
-### proprietary connectors
+### Proprietary connectors
 As times have evolved many brands have come out with their own proprietary system for fans and RGB, there are too many to list them all. 
 
 brands notorious for proprietary fan/RGB connectors include: Lian Li, Corsair and NZXT.
@@ -103,7 +103,7 @@ A fan controller is a device that controls the speed of fans, as opposed to repl
 
 
 # RGB
-## essentials
+## Essentials
 Many computer components come with embedded decorative LEDs. Usually they have more than one of these pixels chained up together. More ofthen than not they are controllable via software.
 
 Mixing **R**ed, **G**reen and **B**lue can reproduce a broad array of colours. 
@@ -176,7 +176,7 @@ Some RGB controllers can be controlled via software, connecting via an internal 
 <p align=left><img src="https://i.imgur.com/xxVtDzu.png" alt="examples of RGB controllers" style="max-width:80%;"></p> 
 
 
-# useful links
+# Useful links
 How to install a fan: <https://support.arctic.de/p12-pwm-pst-rgb>
 
 Fan control software (FOSS): <https://getfancontrol.com/>
