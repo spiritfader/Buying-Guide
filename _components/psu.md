@@ -3,6 +3,14 @@ title: PSUs
 layout: default
 ---
 # What to look for when buying a PSU
+<details closed markdown="block">
+  <summary>
+    <b>Table of contents</b>
+  </summary>
+  {: .text-delta }
+- TOC
+{:toc}
+</details>
 
 There are a few key things you want your PSU to succeed at. It must:
 - Not explode/catch fire/trip a breaker/otherwise threaten your safety

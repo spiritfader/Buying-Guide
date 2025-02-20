@@ -2,6 +2,14 @@
 title: Fan Connectors & RGB
 layout: default
 ---
+<details closed markdown="block">
+  <summary>
+    <b>Table of contents</b>
+  </summary>
+  {: .text-delta }
+- TOC
+{:toc}
+</details>
 
 # Fan and RGB wiring guide
 Understanding PC fan wiring and RGB connections is essential for anyone building or maintaining a computer. Fans are critical for cooling components, while RGB lighting allows for customization of your system’s appearance. However, the variety of connectors and wiring configurations can be confusing for beginners.
