@@ -1,3 +1,16 @@
 title: The Tech™
 remote_theme: just-the-docs/just-the-docs
 color_scheme: dark
+
+collections:
+  components:
+    output: true
+  peripherals:
+    output: true
+
+just_the_docs:
+  collections:
+    components:
+      name: Components
+    peripherals:
+      name: Peripherals
