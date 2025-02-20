@@ -1,5 +1,6 @@
 ---
 title: Keyboards
+layout: default
 ---
 
 # Table of Contents

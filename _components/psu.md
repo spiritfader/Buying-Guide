@@ -1,9 +1,6 @@
 ---
 title: PSUs
-layout: home
-nav_order: 1
-has_toc: true
-permalink: /components/psu
+layout: default
 ---
 # What to look for when buying a PSU
 

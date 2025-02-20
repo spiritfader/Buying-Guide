@@ -4,8 +4,10 @@ color_scheme: dark
 
 collections:
   components:
+    permalink: /:path
     output: true
   peripherals:
+    permalink: /:path
     output: true
 
 just_the_docs:

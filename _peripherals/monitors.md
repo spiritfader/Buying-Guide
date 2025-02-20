@@ -1,5 +1,6 @@
 ---
 title: Monitors
+layout: default
 ---
 
 Some monitor suggestions grouped by their core specs. Each link is to an in-depth review or note about the product. The "speculative" section implies reason to believe the monitor could be good (usually going off the panel used), but lacking in-depth reviews to prove so.

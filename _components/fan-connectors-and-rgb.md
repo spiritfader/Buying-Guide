@@ -1,5 +1,6 @@
 ---
 title: Fan Connectors & RGB
+layout: default
 ---
 
 # Fan and RGB wiring guide

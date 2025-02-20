@@ -1,5 +1,6 @@
 ---
 title: Mice
+layout: default
 ---
 
 (Work in Progress)
