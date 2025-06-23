@@ -13,15 +13,15 @@ description: Some monitor suggestions grouped by their core specs. Each link is 
 </details>
 Some monitor suggestions grouped by their core specs. Each link is to an in-depth review or note about the product. The "speculative" section implies reason to believe the monitor could be good (usually going off the panel used), but lacking in-depth reviews to prove so.
 
-**Note**: Monitors are not tiered inside the categories and they are not all comparable. As prices and availability vary in different regions, the idea is that you can find what's actually available for you at your budget and then compare them.
+**Note**: Monitors are not tiered inside the categories and they are not all comparable. As prices and availability vary in different regions, the idea is that you can find what's actually available for you at your budget and then compare them via the reviews.
 
 # LCD
 
 ## 27" 1440p ~165
 
-AOC: [Q27G3XMN](<https://www.youtube.com/watch?v=XbQ8Pe4WVxc>) [MiniLED, [1](<https://www.rtings.com/monitor/reviews/aoc/q27g3xmn>), [2](<https://tftcentral.co.uk/reviews/aoc-q27g3xmn>)], [Q27G4X](<https://www.youtube.com/watch?v=Ix9jwP_q_IM>)
+AOC: [Q27G3XMN](<https://www.youtube.com/watch?v=XbQ8Pe4WVxc>) [MiniLED, [1](<https://www.rtings.com/monitor/reviews/aoc/q27g3xmn>), [2](<https://tftcentral.co.uk/reviews/aoc-q27g3xmn>)], [Q27G40XMN](<https://www.youtube.com/watch?v=dDOybDnJ9cM>) [MiniLED, [1](<https://www.rtings.com/monitor/reviews/aoc/q27g40xmn>)], [Q27G4X](<https://www.youtube.com/watch?v=Ix9jwP_q_IM>)
 
-Asus: [XG27ACS](<https://www.youtube.com/watch?v=cXgvP84g2BU>) [[1](<https://www.rtings.com/monitor/reviews/asus/rog-strix-xg27acs>), [2](<https://www.youtube.com/watch?v=G2T1wNu6Q6Y>)], [VG27AQ3A](<https://www.youtube.com/watch?v=jogkXwQwQI4>) [[1](<https://www.youtube.com/watch?v=__WHIe_KPXY>), [2](<https://www.youtube.com/watch?v=X39gYoif7Jk>)]
+Asus: [XG27ACS](<https://www.youtube.com/watch?v=cXgvP84g2BU>) [[1](<https://www.rtings.com/monitor/reviews/asus/rog-strix-xg27acs>), [2](<https://www.youtube.com/watch?v=G2T1wNu6Q6Y>)], [XG27WCS](<https://www.youtube.com/watch?v=heD3VTJvKAo>) [VG27AQ3A](<https://www.youtube.com/watch?v=jogkXwQwQI4>) [[1](<https://www.youtube.com/watch?v=__WHIe_KPXY>), [2](<https://www.youtube.com/watch?v=X39gYoif7Jk>)]
 
 Dell: [G2724D](<https://www.youtube.com/watch?v=pw9ByU6AOd8>) [[1](<https://www.rtings.com/monitor/reviews/dell/g2724d>), [2](<https://www.youtube.com/watch?v=7Bj59SEc3f8>)]
 
@@ -49,7 +49,7 @@ LG: [27GR83Q](<https://www.youtube.com/watch?v=Z-1zV7MYT4U>) [[1](<https://www.y
 
 Samsung: [G6 G65B](<https://www.rtings.com/monitor/reviews/samsung/odyssey-g6-s32bg65>) [27 & 32", VA, QC issues, [1](<https://www.youtube.com/watch?v=lqblkGhMwq4>), [2](<https://www.typectechreviews.com/post/samsung-odyssey-g6-g65b-gaming-monitor-review>)], [G7 G73T / G74T / G75T](<https://www.youtube.com/watch?v=go1qsBetgV0>) [27" & 32", VA, QC issues, [1](<https://www.rtings.com/monitor/reviews/samsung/odyssey-g7-c32g75t>)] 
 
-Speculative: Acer XV272U F3 [300 Hz]
+Speculative: Acer XV272U F3 [300 Hz], KTC H27E6 [300 Hz]
 
 ## 4K ~144
 
@@ -88,17 +88,13 @@ Warranty duration including burn-in coverage (years):
 
 ## 1440p 240 OLED
 
-Acer: [X27U](<https://www.youtube.com/watch?v=9Fnmz2e_4xI>) [[FW update](<https://www.youtube.com/watch?v=n58SwahHSVk>)]
-
-AOC: [AG276QZD](<https://www.youtube.com/watch?v=C0PS9yM-t6Y>), [AG276QZD2](<https://www.youtube.com/watch?v=7tXNC-rFs1g>)
+AOC: [AG276QZD2](<https://www.youtube.com/watch?v=7tXNC-rFs1g>)
 
 Asus: [PG27AQDM](<https://www.youtube.com/watch?v=R0AkfhZp70w>) [[1](<https://www.youtube.com/watch?v=CqRT06hFDL8>)], [XG27AQDMG](<https://www.youtube.com/watch?v=4OD1Gml24gI>) [FW issues with image retention?]
 
-Corsair: [27QHD240](<https://www.youtube.com/watch?v=ksNCMduj_yc>)
+LG: [27GS95QE](<https://www.rtings.com/monitor/reviews/lg/27gs95qe-b>)
 
-LG: [27GR95QE](<https://www.youtube.com/watch?v=2YBJFYGtmQk>), [27GS95QE](<https://www.rtings.com/monitor/reviews/lg/27gs95qe-b>)
-
-Speculative: Gigabyte FO27Q2, LG 27GS93QE, MSI 271QPX E2, Samsung OLED G6 G61SD
+Speculative: Gigabyte FO27Q2, MO27Q2, LG 27GS93QE, MSI 271QPX E2, Samsung OLED G6 G61SD
 
 ## 1440p 360 OLED
 
@@ -122,6 +118,8 @@ Asus: [PG27AQDP](<https://www.youtube.com/watch?v=fLekvkdOQvI>) [[1](<https://ww
 
 LG: [27GX790A](<https://www.rtings.com/monitor/reviews/lg/27gx790a-b>)
 
+MSI: [272QP X50](<https://www.youtube.com/watch?v=gIFPzQ5L-ZM>)
+
 Sony: [Inzone M10S](<https://www.rtings.com/monitor/reviews/sony/inzone-m10s>)
 
 Speculative: Asus XG27AQDPG, Gigabyte FO27Q5P, MSI 272QR X50, Samsung OLED G6 G60SF
@@ -134,7 +132,7 @@ Asus: [PG34WCDM](<https://www.rtings.com/monitor/reviews/asus/rog-swift-oled-pg3
 
 Corsair: [34WQHD240-C](<https://www.youtube.com/watch?v=_5gInzdwoQs>) [240 Hz]
 
-Dell: [AW3423DWF](<https://www.youtube.com/watch?v=b0aLF3KVOTQ>) [[FW update](<https://www.youtube.com/watch?v=jTvqGFBPIw4>), [1](<https://www.rtings.com/monitor/reviews/dell/alienware-aw3423dwf>)]
+Dell: [AW3423DWF](<https://www.youtube.com/watch?v=b0aLF3KVOTQ>) [[FW update](<https://www.youtube.com/watch?v=jTvqGFBPIw4>), [1](<https://www.rtings.com/monitor/reviews/dell/alienware-aw3423dwf>)], [AW3425DW](<https://www.youtube.com/watch?v=ct3ojXNkq8Q>) [240 Hz]
 
 Gigabyte: [MO34WQC2](<https://www.youtube.com/watch?v=AaHOcqinQBI>) [240 Hz]
 
@@ -158,23 +156,23 @@ Speculative: AOC AG326UD, Gigabyte FO32U, MSI 321UP
 
 Asus: [PG42UQ](<https://www.youtube.com/watch?v=MNBmFJ68SCw>)
 
-LG: 42C2 / 42C3 / 42C4
+LG: [42C2](<https://www.rtings.com/monitor/reviews/lg/42-c2-oled>), [42C3](<https://www.rtings.com/tv/reviews/lg/c3-oled>), [42C4](<https://www.rtings.com/monitor/reviews/lg/42-c4-oled>), 42C5
 
-Sony: A90K
+Sony: [A90K](<https://www.rtings.com/tv/reviews/sony/a90k-oled>)
 
-Speculative: Philips 42M2N8900
+Speculative: Philips 42M2N8900, Samsung S90D, S90F
 
 ## 4K 240 OLED
 
 ### 27"
 
-Asus: [PG27UCDM](<https://www.youtube.com/watch?v=tCLxxmULrdY>) [[1](<https://tftcentral.co.uk/reviews/asus-rog-swift-pg27ucdm>)]
+Asus: [PG27UCDM](<https://www.youtube.com/watch?v=tCLxxmULrdY>) [[1](<https://tftcentral.co.uk/reviews/asus-rog-swift-pg27ucdm>)], [XG27UCDMG](<https://www.youtube.com/watch?v=oY2tUxRlQAM>)
 
 Dell: [AW2725Q](<https://www.youtube.com/watch?v=tBjB5ZUAfAE>)
 
 MSI: [272URX](<https://www.youtube.com/watch?v=su7f1Gg6WIE>)
 
-Speculative: Asus XG27UCDMG, Gigabyte MO27U2, Samsung OLED G8 G81SF
+Speculative: Gigabyte MO27U2, Samsung OLED G8 G81SF
 
 ### 32"
 
@@ -196,4 +194,6 @@ Speculative: [Gigabyte FO32U2](<https://tftcentral.co.uk/news/gigabyte-aorus-fo3
 
 ## 2160p UW OLED
 
-Speculative: LG 45GX950A, 45GX990A
+LG: [45GX950A](<https://www.youtube.com/watch?v=70uei9-FqkE>) [[1](<https://www.rtings.com/monitor/reviews/lg/45gx950a-b>), [2](<https://www.youtube.com/watch?v=2iwUAIgDy6k>)]
+
+Speculative: LG 45GX990A
