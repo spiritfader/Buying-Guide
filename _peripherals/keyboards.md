@@ -4,56 +4,43 @@ layout: default
 ---
 
 # Table of Contents
-[Prebuild Keyboard](#prebuild)
+[Recommendations](#recommendations)
 
 [Custom Keyboard](#custom)
 
-# Context
-In the modern keyboard market, many types of switches exist in keyboards. 
 
-> **_NOTE:_** This guide will mainly focus on the **MX platform** but will mention other popular switches in the market such as:
-> - Hall Effect (HE)
-> - Electrocapacitive (EC)
-> - Membrane
+# Notes and Updates
+11/07/2025 - A full revision of the list due to outdated nature. 
 
 
-# Criteria
-Please note that keyboards are highly subjective and many will have different experiences. For transparency reasons, recommendations are based on more objective factors such as:
-- Software support
-- Build quality
-- Price-to-Performance
-- Consensus and reviews
 
+# Recommendations
 
-# Prebuild
-
-Prebuilds are pre-assembled keyboards that will work right out of the box. 
-
-These keyboards are generally cheaper than custom keyboards due to mass production. 
-
-Many newer prebuild boards now offer 2.4ghz wireless and/or Bluetooth compatibility, providing flexibility in how you connect your keyboard.
-> **PLEASE NOTE**: This does **NOT** mean that the keyboard cannot be used wired. In fact, most will require a wired connection to charge the battery
+The following reccomendations are primarily prebuilds, but some custom keyboards kits will be included.
 
 ## < ~50$ 
 
-- Keychron C3 Pro <sup>1</sup> : $40-50  ⭐⭐
+- Lemokey X Series <sup>1</sup> : $20-40 
 
-- TEAMWOLF Raven68 (HE) <sup>2</sup> : $45-65 
+- Keychron C3 Pro / C3 Pro 8K <sup>1</sup> : $28-55 
 
 - Logitech K120 : $15 
 
 ## ~$50-100
-- **Shortcut Studio Bridge75 <sup>3</sup> :** $85-120 ⭐⭐⭐
 
-- **Chilkey ND75** : $99 ⭐⭐
+- **Shortcut Studio Bridge75 <sup>2</sup> :** $85-120 
 
 - Keychron V Max : ~$100 
 
-- Womier SK75 <sup>4</sup> : $100 
+- Womier SK75: $100 
 
-- Womier SK65 : $90 
 
 ## ~$100-150
+
+- Swaykeys Eave65: $50 (KIT: Does not include switches, stabilisers and keycaps. High chance of hitting around 100-150)
+
+- Melgeek Real67 (HE): $120
+
 - Luminkey Luminkey60 Pro: $145 
   
 - Melgeek Made68 Pro (HE): $150
@@ -61,29 +48,24 @@ Many newer prebuild boards now offer 2.4ghz wireless and/or Bluetooth compatibil
 - Melgeek Made84 Pro (HE): $150
 
 ## ~150-200+
-- Qwertykey Evo80: $170 ⭐⭐⭐
-- Luminkey Luminkey65/75v2: $179 ⭐
-  
-- Wooting 60HE+ (HE): $175 ⭐
-  
-- Wooting 80HE (HE): $200 ⭐
-  
-- KBDFans Tofu60/Tofu65 2.0 <sup>5</sup>: ~$200 
-  
-- Luminkey Luminkey98: $220 
 
+- Qwertykeys Neo60 Core / Neo65: $100 (KIT: Does not include switches, and keycaps. High chance of hitting around 150-200+)
+
+- Qwertykeys Evo80: $170
+  
+- Luminkey Luminkey65/75v2/98: $179-$220 
+  
 - Keychron Q Max: ~$200
   
 - HHKB Professional Classic/Hybrid/Type-S <sup>6</sup> (Topre) ✨
   
-- Realforce R3 <sup>6</sup> (Topre) ✨
+- Realforce R3 <sup>3</sup> (Topre) ✨
 
-###### <sup>1</sup> The Non-RGB Keychron C3 Pro has been seen to go as low as $25 on sales. The $40 non-RGB Keychron C3 Pro is not hot-swappable, whilst the $50 RGB Keychron C3 Pro does.
-###### <sup>2</sup> Domestically in China, it is around USD 40. For international, it may be slightly more.
-###### <sup>3</sup> Choose either the standard or plus. Do NOT buy the HE model of this board.
-###### <sup>4</sup> At Womier's website, a 10% coupon makes the board $99 instead of $110. If Amazon, it is $110.
-###### <sup>5</sup> KBDFans offers Ready to Use of these keyboards, which can end up around an estimated $200.
-###### <sup>6</sup> Topre is a very niche and small product in the keyboard market. Thus do research on these switches if you are interested.
+- Venom 60/TKL HE: $65-70 (PCB: This is a PCB for hall effects, this does not include everything such as plate, switches, keycaps, stabilisers, and case. Please do extensive research before approaching this)
+
+###### <sup>1</sup> Lemokey and Keychron are sister companies, so both of them are pretty much the exact same. These boards tend to go on sale very often.
+###### <sup>2</sup> Choose either the standard or plus. Do NOT buy the HE model of this board.
+###### <sup>3</sup> Topre is a very niche and small product in the keyboard market. Thus do research on these switches if you are interested.
 
 
 # Avoid List
@@ -95,7 +77,7 @@ Many newer prebuild boards now offer 2.4ghz wireless and/or Bluetooth compatibil
 
 # Custom
 
-Custom keyboards are keyboards that you build yourself. 
+Custom keyboards are keyboards that you build yourself. If you do not want to tinker with this, stick with prebuilds.
 
 If you are considering a custom keyboard, keep in mind of these factors:
 1. **Budget** - I recommend having a minimum budget of **$200** when considering a build. While it's possible to spend less, opting for lower-end components will compromise the overall quality, making a pre-built keyboard a more viable option.
@@ -104,11 +86,3 @@ If you are considering a custom keyboard, keep in mind of these factors:
 4. **Research** - Researching and understanding each component in a keyboard will help you make informed decisions in selecting parts.
 
 
-| Components | Description |
-|:--------|:--------- |
-| Case | The shell of the keyboard that houses the internal components|
-| PCB | Printed circuit board, responsible for registering keypresses and sending signal to the computer|
-| Stabilisers | Mechanism that is used to stabilise the larger keys to prevent wobbling and ensure smooth key presses|
-| Switches | The mechanism that registers input| 
-| Plate | A plate is used to position the switches to the PCB, and connects them | 
-| Keycaps | Externalpiece that you press that covers the switches |
