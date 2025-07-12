@@ -43,9 +43,9 @@ The following reccomendations are primarily prebuilds, but some custom keyboards
 
 - Luminkey Luminkey60 Pro: $145 
   
-- Melgeek Made68 Pro (HE): $150
-  
-- Melgeek Made84 Pro (HE): $150
+- Melgeek Made68/84 Pro (HE): $150
+
+- KBDFans Tiger Lite Gaming (HE/MX): $85 (KIT: Does not include switches and keycaps. HE includes a Venom TKL HE pcb)
 
 ## ~150-200+
 
