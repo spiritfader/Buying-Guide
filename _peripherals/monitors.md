@@ -24,7 +24,7 @@ Some monitor suggestions grouped by their core specs. Each link is to an in-dept
 
 ## ~24" 1440p 165+
 
-AOC: Q24G2A [[PCM](<https://pcmonitors.info/reviews/aoc-q24g2a-bk/>)/[techless](<https://www.youtube.com/watch?v=JfwchEzmL7Q>)/[TtGB](<https://www.youtube.com/watch?v=6N0bPup7t08>)/[Totallydubbed](<https://www.youtube.com/watch?v=uiqIvs3qyJ0>)], Q25G4SR [[TdHD](<https://www.youtube.com/watch?v=gC0K-ge9-Xc>)]
+AOC: Q24G2A [[PCM](<https://pcmonitors.info/reviews/aoc-q24g2a-bk/>)/[techless](<https://www.youtube.com/watch?v=JfwchEzmL7Q>)/[TtGB](<https://www.youtube.com/watch?v=6N0bPup7t08>)/[TdHD](<https://www.youtube.com/watch?v=uiqIvs3qyJ0>)], Q25G4SR [[TdHD](<https://www.youtube.com/watch?v=gC0K-ge9-Xc>)]
 
 Speculative: AOC Q24G4E
 
@@ -242,3 +242,4 @@ Speculative: Asus PG32UCDMR, PG32UCDMZ, Gigabyte [FO32U2](<https://TFTC.co.uk/ne
 LG: 45GX950A [[MU](<https://www.youtube.com/watch?v=70uei9-FqkE>)/[Rtings](<https://www.rtings.com/monitor/reviews/lg/45gx950a-b>)/[TFTC](<https://www.youtube.com/watch?v=2iwUAIgDy6k>)]
 
 Speculative: LG 45GX990A
+
